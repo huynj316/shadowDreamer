@@ -1,0 +1,37 @@
+A 3d Sculpt Head Bust of a Bat/Rat monster/mutant.
+--------------------------------------------------
+Made in:
+3dmax 5/8
+Sculpted with:
+Mudbox
+Textured with:
+Partial OC and Paintshop Pro X
+--------------------------------------------------
+**************************************************
+This package comes with 3 Versions:
+High Poly
+Medium Poly
+Low Poly
+***************************************************
+#######################################################################################
+NOTE: The model is NOT rigged nor animated but is fully textured with 2 alternate eye Textures.
+ISSUES: There are 2 slight unwrap probs taht i could not get fixed due to the stage levels, and the errors are near the 2nd top fags and top back molar.
+#######################################################################################
+
+Renders made in max8 with a single skylight, Show image render of High poly version made with skylight and 2 target lights, lights and their placement not included on model scenes.
+
+I Highly suggest you use the higher versions for good quality renders and with a good light scene or the sculpt job wont be noticed.
+
+The main texture was made within 1024x1024, so sorry for the not so high quality.
+
+
+You may use this model within your projects, images, etc.
+
+
+This model is free for the time being but will be put up for purchase for a low price, any attempt on selling my content or uploading it will face punishment.
+
+==========================================================
+Do not claim the rights over the Authorship of this model. 
+
+Author is Samantha Zeven. AKA The_Werewulf
+==========================================================

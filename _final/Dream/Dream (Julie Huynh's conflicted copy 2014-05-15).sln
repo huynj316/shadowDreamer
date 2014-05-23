@@ -1,17 +1,15 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/moveForward.cs">
-    <Files>
-      <File FileName="Assets/Shaders/InvisibleShadowCaster.shader.shader" Line="1" Column="1" />
-      <File FileName="Assets/moveForward.cs" Line="9" Column="12" />
-      <File FileName="../../Spacewalk/Assets/Scripts/CameraControl.cs" Line="158" Column="23" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-</Properties>F9-E61A-9A1D-3B83-AE31889AC954}") = "Dream", "Assembly-UnityScript.unityproj", "{7154DC25-0E4C-3ED8-55FD-79E2B0C63135}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2A2542F9-E61A-9A1D-3B83-AE31889AC954}") = "Dream", "Assembly-CSharp-firstpass.csproj", "{8D60AD64-6664-C406-8652-B9FEBB7E2E78}"
+EndProject
+Project("{2A2542F9-E61A-9A1D-3B83-AE31889AC954}") = "Dream", "Assembly-CSharp.csproj", "{C9772D35-AA8B-E525-20E1-6B5F5D1B8F22}"
+EndProject
+Project("{2A2542F9-E61A-9A1D-3B83-AE31889AC954}") = "Dream", "Assembly-CSharp-Editor.csproj", "{99BDDFA9-6909-3098-EAC7-F4D536DF0ECF}"
+EndProject
+Project("{2A2542F9-E61A-9A1D-3B83-AE31889AC954}") = "Dream", "Assembly-UnityScript-firstpass.unityproj", "{539992D2-C7CA-9B49-8F26-2BFCAD6A100C}"
+EndProject
+Project("{2A2542F9-E61A-9A1D-3B83-AE31889AC954}") = "Dream", "Assembly-UnityScript.unityproj", "{7154DC25-0E4C-3ED8-55FD-79E2B0C63135}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,7 +41,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																																			GlobalSection(MonoDevelopProperties) = preSolution
+																																																																															GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
@@ -63,4 +61,3 @@ Global
 	EndGlobalSection
 
 EndGlobal
-)(BaseColor.
