@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 81a77a206c71e4db9bb5ff9c4113f1dc
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: camera1
+    100004: curve1
+    100006: curve2
+    100008: pCube3
+    100010: pCube4
+    100012: polySurface84
+    100014: polySurface85
+    100016: polySurface86
+    100018: pPlane1
+    100020: Scale_man
+    100022: Scale_man1
+    100024: Scale_man2
+    100026: Scale_man3
+    100028: Scale_Man_Maya:Scale_man
+    400000: //RootNode
+    400002: camera1
+    400004: curve1
+    400006: curve2
+    400008: pCube3
+    400010: pCube4
+    400012: polySurface84
+    400014: polySurface85
+    400016: polySurface86
+    400018: pPlane1
+    400020: Scale_man
+    400022: Scale_man1
+    400024: Scale_man2
+    400026: Scale_man3
+    400028: Scale_Man_Maya:Scale_man
+    2300000: polySurface84
+    2300002: polySurface85
+    2300004: polySurface86
+    2300006: pPlane1
+    2300008: Scale_man
+    2300010: Scale_man1
+    2300012: Scale_man2
+    2300014: Scale_man3
+    2300016: Scale_Man_Maya:Scale_man
+    3300000: polySurface84
+    3300002: polySurface85
+    3300004: polySurface86
+    3300006: pPlane1
+    3300008: Scale_man
+    3300010: Scale_man1
+    3300012: Scale_man2
+    3300014: Scale_man3
+    3300016: Scale_Man_Maya:Scale_man
+    4300000: Scale_Man_Maya:Scale_man
+    4300002: Scale_man
+    4300004: Scale_man1
+    4300006: Scale_man2
+    4300008: Scale_man3
+    4300010: polySurface84
+    4300012: polySurface85
+    4300014: pPlane1
+    4300016: polySurface86
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

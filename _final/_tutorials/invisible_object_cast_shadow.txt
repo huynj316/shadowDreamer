@@ -1,0 +1,3 @@
+Unity
+• Create > Shader
+• Double-click on it and add: http://answers.unity3d.com/questions/269292/having-an-invisible-object-that-casts-shadows.html

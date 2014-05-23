@@ -1,0 +1,42 @@
+# Blender MTL File: 'Digger.blend'
+# Material Count: 4
+
+newmtl Material.TF.131074
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Documents and Settings/Arthur Athayde/Desktop/textures/Digger.png
+
+newmtl Material.TF.2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Documents and Settings/Arthur Athayde/Desktop/textures/Digger.png
+
+newmtl Material.TF.514
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Documents and Settings/Arthur Athayde/Desktop/textures/Digger.png
+
+newmtl Material.TF.65538
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Documents and Settings/Arthur Athayde/Desktop/textures/Digger.png
